@@ -1,0 +1,15 @@
+.idea
+
+# Obsidian 缓存与配置（不上传）
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.trash/
+.DS_Store
+Thumbs.db
+
+# 其他临时文件
+*.log
+*.tmp
+
